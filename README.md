@@ -3,6 +3,8 @@
 An extension for [pfQuest-wotlk](https://github.com/shagu/pfQuest) which adds support for [Ascension WoW](https://ascension.gg).
 The latest version of [pfQuest-wotlk](https://github.com/shagu/pfQuest) is required and only enUS-Gameclients are supported at the time.
 
+This should work on all of Ascension's servers.
+
 ### Installation
 1. Download **[Latest Version](https://github.com/Bennylavaa/pfQuest-ascension/archive/master.zip)**
 2. Unpack the Zip file
